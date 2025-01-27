@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=admirschwab&label=Profile%20views&color=ff0000&style=flat" alt="admirschwab" /> </p>
 
 - 🔭 I’m currently working on [Ident](https://spherecloud.de)
-
-- 📫 How to reach me **https://spherecloud.de/contact**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
