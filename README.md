@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 * 🌍  I'm based in Friedrichshafen
-* 🚀  I'm currently working on [Nexo](http://https://github.com/admirschwab/nexo)
+* 🚀  I'm currently working on [Nexo](https://github.com/admirschwab/nexo)
 * 🧠  I'm currently learning Rust
 
 <p align="left">
